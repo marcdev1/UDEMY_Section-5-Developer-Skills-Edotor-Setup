@@ -5,5 +5,5 @@ const x = '25';
 if (x === 25) console.log(25);
 
 const calAge = birthYear => 2037 - birthYear;
-console.log();
-console.log();
+
+console.log(calAge(1991));
