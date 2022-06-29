@@ -37,4 +37,4 @@ const calcTempAmplitude = function (temps) {
 };
 calcTempAmplitude([temperatures]);
 
-//MERGE TWO ARRAYS
+// MERGE TWO ARRAYS
