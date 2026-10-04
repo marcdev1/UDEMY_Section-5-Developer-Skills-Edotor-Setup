@@ -41,8 +41,7 @@ Les données sont enregistrées dans `<monde>/blockov.json`.
 ./gradlew runClient      # lancer un client de test
 ```
 
-Il faut Java 21. Les versions sont dans `gradle.properties`. Vérifiez-les sur
-https://fabricmc.net/develop pour la 1.21.11 (loader, Fabric API, Loom).
+Il faut Java 21. Versions testées : Fabric Loader 0.19.5, Fabric API 0.141.6+1.21.11, Loom 1.14.10.
 
 ## Structure
 
